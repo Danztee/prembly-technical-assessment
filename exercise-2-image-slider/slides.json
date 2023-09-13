@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "image": "image-1.jpg",
+    "caption": "Plant"
+  },
+  {
+    "id": 2,
+    "image": "image-2.jpg",
+    "caption": "Galaxy"
+  },
+  {
+    "id": 3,
+    "image": "image-3.jpg",
+    "caption": "Neurons"
+  },
+  {
+    "id": 4,
+    "image": "image-4.jpg",
+    "caption": "Dog"
+  },
+  {
+    "id": 5,
+    "image": "image-5.jpg",
+    "caption": "Cocoa"
+  }
+]

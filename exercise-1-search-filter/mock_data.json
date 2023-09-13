@@ -1,0 +1,602 @@
+[
+    {
+        "id": 540,
+        "username": "Jack",
+        "email": "florence@example.com",
+        "age": 20
+    },
+    {
+        "id": 860,
+        "username": "Jack",
+        "email": "adedayo@example.com",
+        "age": 31
+    },
+    {
+        "id": 262,
+        "username": "David",
+        "email": "daniel@example.com",
+        "age": 54
+    },
+    {
+        "id": 860,
+        "username": "Jack",
+        "email": "matthew@example.com",
+        "age": 51
+    },
+    {
+        "id": 162,
+        "username": "Jack",
+        "email": "florence@example.com",
+        "age": 57
+    },
+    {
+        "id": 508,
+        "username": "Emma",
+        "email": "emma@example.com",
+        "age": 26
+    },
+    {
+        "id": 395,
+        "username": "Segun",
+        "email": "florence@example.com",
+        "age": 57
+    },
+    {
+        "id": 456,
+        "username": "Segun",
+        "email": "adedayo@example.com",
+        "age": 58
+    },
+    {
+        "id": 510,
+        "username": "Matthew",
+        "email": "segun@example.com",
+        "age": 27
+    },
+    {
+        "id": 754,
+        "username": "Florence",
+        "email": "daniel@example.com",
+        "age": 43
+    },
+    {
+        "id": 407,
+        "username": "Hannah",
+        "email": "daniel@example.com",
+        "age": 19
+    },
+    {
+        "id": 837,
+        "username": "Jack",
+        "email": "jack@example.com",
+        "age": 33
+    },
+    {
+        "id": 900,
+        "username": "Matthew",
+        "email": "segun@example.com",
+        "age": 42
+    },
+    {
+        "id": 720,
+        "username": "Florence",
+        "email": "florence@example.com",
+        "age": 58
+    },
+    {
+        "id": 599,
+        "username": "Matthew",
+        "email": "daniel@example.com",
+        "age": 44
+    },
+    {
+        "id": 524,
+        "username": "Faith",
+        "email": "emma@example.com",
+        "age": 31
+    },
+    {
+        "id": 730,
+        "username": "David",
+        "email": "florence@example.com",
+        "age": 49
+    },
+    {
+        "id": 342,
+        "username": "Florence",
+        "email": "segun@example.com",
+        "age": 25
+    },
+    {
+        "id": 654,
+        "username": "Emma",
+        "email": "david@example.com",
+        "age": 22
+    },
+    {
+        "id": 76,
+        "username": "Daniel",
+        "email": "david@example.com",
+        "age": 31
+    },
+    {
+        "id": 534,
+        "username": "Florence",
+        "email": "faith@example.com",
+        "age": 31
+    },
+    {
+        "id": 632,
+        "username": "Hannah",
+        "email": "jack@example.com",
+        "age": 50
+    },
+    {
+        "id": 147,
+        "username": "David",
+        "email": "jack@example.com",
+        "age": 44
+    },
+    {
+        "id": 769,
+        "username": "Segun",
+        "email": "daniel@example.com",
+        "age": 52
+    },
+    {
+        "id": 113,
+        "username": "Hannah",
+        "email": "faith@example.com",
+        "age": 56
+    },
+    {
+        "id": 503,
+        "username": "Matthew",
+        "email": "emma@example.com",
+        "age": 57
+    },
+    {
+        "id": 567,
+        "username": "Segun",
+        "email": "emma@example.com",
+        "age": 32
+    },
+    {
+        "id": 681,
+        "username": "Segun",
+        "email": "matthew@example.com",
+        "age": 26
+    },
+    {
+        "id": 902,
+        "username": "Daniel",
+        "email": "faith@example.com",
+        "age": 19
+    },
+    {
+        "id": 11,
+        "username": "Adedayo",
+        "email": "daniel@example.com",
+        "age": 50
+    },
+    {
+        "id": 352,
+        "username": "Segun",
+        "email": "matthew@example.com",
+        "age": 45
+    },
+    {
+        "id": 150,
+        "username": "Jack",
+        "email": "daniel@example.com",
+        "age": 48
+    },
+    {
+        "id": 541,
+        "username": "Emma",
+        "email": "adedayo@example.com",
+        "age": 45
+    },
+    {
+        "id": 598,
+        "username": "Adedayo",
+        "email": "daniel@example.com",
+        "age": 43
+    },
+    {
+        "id": 557,
+        "username": "Florence",
+        "email": "faith@example.com",
+        "age": 30
+    },
+    {
+        "id": 259,
+        "username": "Matthew",
+        "email": "jack@example.com",
+        "age": 41
+    },
+    {
+        "id": 190,
+        "username": "Daniel",
+        "email": "david@example.com",
+        "age": 47
+    },
+    {
+        "id": 189,
+        "username": "Segun",
+        "email": "emma@example.com",
+        "age": 55
+    },
+    {
+        "id": 509,
+        "username": "Hannah",
+        "email": "faith@example.com",
+        "age": 45
+    },
+    {
+        "id": 452,
+        "username": "Segun",
+        "email": "david@example.com",
+        "age": 23
+    },
+    {
+        "id": 154,
+        "username": "Faith",
+        "email": "hannah@example.com",
+        "age": 19
+    },
+    {
+        "id": 549,
+        "username": "Florence",
+        "email": "david@example.com",
+        "age": 40
+    },
+    {
+        "id": 265,
+        "username": "Florence",
+        "email": "adedayo@example.com",
+        "age": 41
+    },
+    {
+        "id": 624,
+        "username": "Emma",
+        "email": "florence@example.com",
+        "age": 49
+    },
+    {
+        "id": 272,
+        "username": "Adedayo",
+        "email": "emma@example.com",
+        "age": 22
+    },
+    {
+        "id": 118,
+        "username": "Adedayo",
+        "email": "david@example.com",
+        "age": 54
+    },
+    {
+        "id": 236,
+        "username": "Segun",
+        "email": "daniel@example.com",
+        "age": 60
+    },
+    {
+        "id": 444,
+        "username": "Faith",
+        "email": "david@example.com",
+        "age": 42
+    },
+    {
+        "id": 38,
+        "username": "Florence",
+        "email": "jack@example.com",
+        "age": 25
+    },
+    {
+        "id": 942,
+        "username": "Matthew",
+        "email": "segun@example.com",
+        "age": 24
+    },
+    {
+        "id": 381,
+        "username": "Segun",
+        "email": "faith@example.com",
+        "age": 51
+    },
+    {
+        "id": 855,
+        "username": "Florence",
+        "email": "segun@example.com",
+        "age": 47
+    },
+    {
+        "id": 629,
+        "username": "Emma",
+        "email": "florence@example.com",
+        "age": 33
+    },
+    {
+        "id": 817,
+        "username": "Emma",
+        "email": "jack@example.com",
+        "age": 39
+    },
+    {
+        "id": 346,
+        "username": "Daniel",
+        "email": "segun@example.com",
+        "age": 45
+    },
+    {
+        "id": 465,
+        "username": "Emma",
+        "email": "david@example.com",
+        "age": 31
+    },
+    {
+        "id": 863,
+        "username": "Daniel",
+        "email": "emma@example.com",
+        "age": 28
+    },
+    {
+        "id": 78,
+        "username": "David",
+        "email": "hannah@example.com",
+        "age": 24
+    },
+    {
+        "id": 286,
+        "username": "Segun",
+        "email": "daniel@example.com",
+        "age": 19
+    },
+    {
+        "id": 167,
+        "username": "Faith",
+        "email": "hannah@example.com",
+        "age": 36
+    },
+    {
+        "id": 676,
+        "username": "Emma",
+        "email": "hannah@example.com",
+        "age": 18
+    },
+    {
+        "id": 103,
+        "username": "Matthew",
+        "email": "adedayo@example.com",
+        "age": 32
+    },
+    {
+        "id": 346,
+        "username": "Florence",
+        "email": "david@example.com",
+        "age": 20
+    },
+    {
+        "id": 912,
+        "username": "Segun",
+        "email": "florence@example.com",
+        "age": 21
+    },
+    {
+        "id": 216,
+        "username": "Adedayo",
+        "email": "florence@example.com",
+        "age": 39
+    },
+    {
+        "id": 288,
+        "username": "Faith",
+        "email": "faith@example.com",
+        "age": 56
+    },
+    {
+        "id": 102,
+        "username": "Florence",
+        "email": "segun@example.com",
+        "age": 28
+    },
+    {
+        "id": 862,
+        "username": "Adedayo",
+        "email": "emma@example.com",
+        "age": 30
+    },
+    {
+        "id": 292,
+        "username": "Adedayo",
+        "email": "faith@example.com",
+        "age": 36
+    },
+    {
+        "id": 282,
+        "username": "Hannah",
+        "email": "segun@example.com",
+        "age": 28
+    },
+    {
+        "id": 290,
+        "username": "Adedayo",
+        "email": "david@example.com",
+        "age": 47
+    },
+    {
+        "id": 21,
+        "username": "Faith",
+        "email": "faith@example.com",
+        "age": 52
+    },
+    {
+        "id": 442,
+        "username": "Jack",
+        "email": "segun@example.com",
+        "age": 49
+    },
+    {
+        "id": 130,
+        "username": "Hannah",
+        "email": "hannah@example.com",
+        "age": 24
+    },
+    {
+        "id": 350,
+        "username": "Matthew",
+        "email": "segun@example.com",
+        "age": 56
+    },
+    {
+        "id": 306,
+        "username": "Hannah",
+        "email": "adedayo@example.com",
+        "age": 20
+    },
+    {
+        "id": 851,
+        "username": "Daniel",
+        "email": "florence@example.com",
+        "age": 31
+    },
+    {
+        "id": 322,
+        "username": "Matthew",
+        "email": "adedayo@example.com",
+        "age": 35
+    },
+    {
+        "id": 460,
+        "username": "Hannah",
+        "email": "matthew@example.com",
+        "age": 56
+    },
+    {
+        "id": 976,
+        "username": "Jack",
+        "email": "segun@example.com",
+        "age": 23
+    },
+    {
+        "id": 671,
+        "username": "Adedayo",
+        "email": "segun@example.com",
+        "age": 57
+    },
+    {
+        "id": 795,
+        "username": "Segun",
+        "email": "hannah@example.com",
+        "age": 39
+    },
+    {
+        "id": 739,
+        "username": "Segun",
+        "email": "florence@example.com",
+        "age": 29
+    },
+    {
+        "id": 916,
+        "username": "Emma",
+        "email": "hannah@example.com",
+        "age": 32
+    },
+    {
+        "id": 2,
+        "username": "Emma",
+        "email": "matthew@example.com",
+        "age": 56
+    },
+    {
+        "id": 113,
+        "username": "Florence",
+        "email": "emma@example.com",
+        "age": 49
+    },
+    {
+        "id": 408,
+        "username": "Emma",
+        "email": "daniel@example.com",
+        "age": 45
+    },
+    {
+        "id": 710,
+        "username": "Matthew",
+        "email": "daniel@example.com",
+        "age": 54
+    },
+    {
+        "id": 576,
+        "username": "Segun",
+        "email": "hannah@example.com",
+        "age": 22
+    },
+    {
+        "id": 903,
+        "username": "Adedayo",
+        "email": "hannah@example.com",
+        "age": 57
+    },
+    {
+        "id": 44,
+        "username": "David",
+        "email": "faith@example.com",
+        "age": 35
+    },
+    {
+        "id": 261,
+        "username": "Daniel",
+        "email": "hannah@example.com",
+        "age": 30
+    },
+    {
+        "id": 881,
+        "username": "Adedayo",
+        "email": "florence@example.com",
+        "age": 48
+    },
+    {
+        "id": 276,
+        "username": "Faith",
+        "email": "hannah@example.com",
+        "age": 19
+    },
+    {
+        "id": 210,
+        "username": "Faith",
+        "email": "faith@example.com",
+        "age": 45
+    },
+    {
+        "id": 845,
+        "username": "Adedayo",
+        "email": "matthew@example.com",
+        "age": 51
+    },
+    {
+        "id": 910,
+        "username": "Matthew",
+        "email": "hannah@example.com",
+        "age": 32
+    },
+    {
+        "id": 559,
+        "username": "Hannah",
+        "email": "faith@example.com",
+        "age": 21
+    },
+    {
+        "id": 793,
+        "username": "David",
+        "email": "segun@example.com",
+        "age": 34
+    },
+    {
+        "id": 280,
+        "username": "Jack",
+        "email": "segun@example.com",
+        "age": 32
+    }
+]

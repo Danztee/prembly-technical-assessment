@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "/game-22.jpeg",
+    "name": "Laptop",
+    "price": 103000
+  },
+  {
+    "id": 2,
+    "image": "/game-23.png",
+    "name": "Acer laptop",
+    "price": 93000
+  },
+  {
+    "id": 3,
+    "image": "/game-24.png",
+    "name": "Game laptop",
+    "price": 147000
+  },
+  {
+    "id": 4,
+    "image": "/game-25.png",
+    "name": "Nitro laptop",
+    "price": 150000
+  },
+  {
+    "id": 5,
+    "image": "/iphone1.jpeg",
+    "name": "Iphone 11",
+    "price": 150000
+  },
+  {
+    "id": 6,
+    "image": "/iphone1.png",
+    "name": "Iphone xxMax",
+    "price": 123000
+  },
+  {
+    "id": 7,
+    "image": "/iphone2.jpeg",
+    "name": "Iphone SE",
+    "price": 93000
+  },
+  {
+    "id": 8,
+    "image": "/iphonese.webp",
+    "name": "Iphone X",
+    "price": 147000
+  },
+  {
+    "id": 9,
+    "image": "/watch.jpeg",
+    "name": "Apple Watch",
+    "price": 50000
+  },
+  {
+    "id": 10,
+    "image": "/xia-1.webp",
+    "name": "Xiaomi 13",
+    "price": 120000
+  }
+]
