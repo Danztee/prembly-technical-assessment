@@ -71,11 +71,6 @@ function App() {
         </ul>
       </div>
 
-      {/* <h1>COVID-19 Statistics</h1>
-      <pre>{JSON.stringify(covidData, null, 2)}</pre>
-
-      */}
-
       <div style={{ marginTop: "10px" }}>
         <h1>Random Users</h1>
 
