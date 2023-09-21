@@ -9,12 +9,15 @@ function SearchFilter() {
     const query = e.target.value;
     setSearchQuery(query);
 
-    // Filter data based on the search query
-    const filteredResults = mockData.filter((item) =>
-      item.username.toLowerCase().includes(query.toLowerCase())
-    );
-
-    setFilteredUsers(filteredResults);
+    if (query.length > 0) {
+      // Filter data based on the search query
+      const filteredResults = mockData.filter((item) =>
+        item.username.toLowerCase().includes(query.toLowerCase())
+      );
+      setFilteredUsers(filteredResults);
+    } else {
+      setFilteredUsers([]);
+    }
   };
 
   return (
